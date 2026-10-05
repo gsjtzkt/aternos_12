@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "PUTO EL QUE LO VEA",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "comemierdas",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "evetsmeej.aternos.me",
+    "port": 42563,
     "version": "1.20.1",
     "try-creative": false
   },
